@@ -1,4 +1,4 @@
-# Webscraping dados Futebol :x:
+# Webscraping dados Futebol ⚽
 ## Webscraping de dados de resultados e e estatísticas dos jogos do Campeonato Brasileiro Série A 2025.
 
 ### Ferramentas:
